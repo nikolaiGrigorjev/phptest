@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Ülessane 403</title>
+    <title>Ülesanne 402</title>
 </head>
 <body>
 <a href="../phptest.php">tagasi.....Ülesannete leht</a>
